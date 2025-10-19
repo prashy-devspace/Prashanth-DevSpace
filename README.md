@@ -2,9 +2,9 @@
 
 🔹 Electronics and VLSI design student  
 🔹 Exploring hardware acceleration, cryptography, and network security  
-🔹 Indie game and anime enjoyer — method meets madness
+🔹 Indie game enjoyer — method meets madness
 
-📫 Reach me at: [your email]
+📫 Reach me at: prashanth.swaminathan.04@gmail.com
 
 ---
 ### ⚙️ Tech Stack
