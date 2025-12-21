@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Prashanth
 
-🔹 Electronics and VLSI design student  
-🔹 Exploring hardware acceleration, cryptography, and network security  
+🔹 Embedded Systems and VLSI design student  
+🔹 Exploring hardware acceleration, cryptography, and System Design  
 🔹 Indie game enjoyer — method meets madness
 
 📫 Reach me at: prashanth.swaminathan.04@gmail.com
