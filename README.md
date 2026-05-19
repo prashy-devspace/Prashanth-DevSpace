@@ -1,19 +1,19 @@
 # Hey there 👋 I'm Prashanth
 
 🔹 Embedded Systems and VLSI design student  
-🔹 Exploring hardware acceleration, cryptography, and System Design  
+🔹 Exploring Hardware Acceleration, Data Analytics and System Design
 🔹 Indie game enjoyer — method meets madness
 
 📫 Reach me at: prashanth.swaminathan.04@gmail.com
 
 ---
 ### ⚙️ Tech Stack
-- **Languages:** C, Python, Verilog
-- **Tools:** Git, Vivado, MATLAB
-- **Domains:** VLSI design, hardware security, embedded systems
+- **Languages:** C, Python, Verilog, SQL
+- **Tools:**  Vivado, MATLAB, Tableau, 
+- **Domains:** VLSI design, Data Engineering, Embedded Systems
 
 ---
 ### 📂 Featured Projects
 | Project | Description | Stack |
-|----------|--------------|--------|
+|---------|--------------|--------|
 
