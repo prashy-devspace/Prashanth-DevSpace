@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Prashanth
 
-🔹 Embedded Systems and VLSI design student  
+🔹 Data Analytics and VLSI Design student  
 🔹 Exploring Hardware Acceleration, Data Analytics and System Design
 🔹 Indie game enjoyer — method meets madness
 
