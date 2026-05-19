@@ -5,6 +5,7 @@ The model is based on Aircraft Control and Simulations, by Brian Stevens and Fra
 
 This is a revised implementation of the older implementation available at  [MATLAB/Simulink package](https://dept.aem.umn.edu/~balas/darpa_sec/SEC.Software.html).
 
+The following implimentation has also the simulation data of the changes made to this base model for with load and asymetric flight conditions.
 
 ## Trim and Linearization
 * Please see trim_and_linearize.m
